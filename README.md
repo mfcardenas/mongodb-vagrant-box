@@ -10,7 +10,7 @@ La versión original de esta idea está https://github.com/bobthecow/vagrant-mon
 2. En su terminal, ejecute lo siguiente:
 
    ```
-   gem install vagrant
+   apt-get install vagrant
    git clone --recursive https://github.com/mfcardenas/mongodb-vagrant-box.git MongoDB
    cd MongoDB
    vagrant up
