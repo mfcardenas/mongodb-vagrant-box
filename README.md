@@ -11,7 +11,7 @@ La versión original de esta idea está https://github.com/bobthecow/vagrant-mon
 
    ```
    gem install vagrant
-   git clone --recursive https://github.com/mcardenas/vagrant-mongodb-box.git MongoDB
+   git clone --recursive https://github.com/mfcardenas/mongodb-vagrant-box.git MongoDB
    cd MongoDB
    vagrant up
    ```
